@@ -1,5 +1,6 @@
                                                     Basic Next Auth Library Implementation
 Front End: ReactJs with NextJs Framework
+
 Back  End: Null
 
 1.Implementation of Next Auth Library with minimal web layout design
